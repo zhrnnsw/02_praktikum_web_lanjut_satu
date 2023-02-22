@@ -17,3 +17,6 @@ Route::get('/', function () {
     echo "Selamat Datang";
 });
 
+Route::get('/about', function () {
+    echo "2141720016 Zahra Annisa Wahono";
+});
